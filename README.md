@@ -4,6 +4,13 @@ Team firmware, raw data and Design & Decision Record (DDR) for the course
 [saacifuentesmu/4201327-iot_systems_design](https://github.com/saacifuentesmu/4201327-iot_systems_design)
 (SoilSense / GreenField Technologies).
 
+## Team
+
+| Name | Email | GitHub |
+|---|---|---|
+| Samuel Elias Gomez Munoz | sgomezmu@unal.edu.co | [@sgomezmunoz](https://github.com/sgomezmunoz) |
+| Juan Fernando Martinez Cabrera | jumartinezcab@unal.edu.co | |
+
 | Path | Contents |
 |---|---|
 | [docs/DDR.md](docs/DDR.md) | Design & Decision Record, with ADRs backed by our measurements |

@@ -2,8 +2,8 @@
 **GreenField Technologies | IoT Systems Design (4201327), UNAL Manizales** — actualizado hasta el **Lab 5**
 
 **Integrantes:**
-1. Samuel Elias Gomez Munoz (GitHub: @sgomezmunoz)
-2. Juan Fernando Martinez Cabrera
+1. Samuel Elias Gomez Munoz — sgomezmu@unal.edu.co (GitHub: @sgomezmunoz)
+2. Juan Fernando Martinez Cabrera — jumartinezcab@unal.edu.co
 
 > **Este DDR es la versión consolidada de los informes de laboratorio.** Si un informe no
 > coincide con este documento, vale el DDR; las diferencias están en la
