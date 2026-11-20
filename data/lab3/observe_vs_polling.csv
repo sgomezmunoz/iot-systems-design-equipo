@@ -1,0 +1,6 @@
+# TRA3SCRITO del informe (docs/informes/informe_labN.pdf). No es un log original; los logs no se guardaron. Tabla 7.1 (Observe vs polling 1 Hz, ventanas de 5 min)
+metrica,prueba1,prueba2
+notificaciones_observe,7,9
+consultas_get_polling_1hz,300,300
+reduccion_trafico_radio_pct,97.7,97.0
+ratio_eficiencia,187:1,150:1

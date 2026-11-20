@@ -7,6 +7,7 @@ Team firmware, raw data and Design & Decision Record (DDR) for the course
 | Path | Contents |
 |---|---|
 | [docs/DDR.md](docs/DDR.md) | Design & Decision Record, with ADRs backed by our measurements |
+| [docs/informes/](docs/informes/) | Lab reports 1–5 (PDF) |
 | [firmware/](firmware/) | Zephyr applications Lab 0–5, with the team's changes |
 | [data/](data/) | Raw data per lab (logs, CSV, captures) |
 | [west.yml](west.yml) | Zephyr manifest pinned by the course |

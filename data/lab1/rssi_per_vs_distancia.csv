@@ -1,0 +1,7 @@
+# TRA1SCRITO del informe (docs/informes/informe_labN.pdf). No es un log original; los logs no se guardaron. Tabla 7.1, TX 0 dBm, canal 15
+distancia_m,rssi_a_b_dbm,rssi_b_a_dbm,per_a_b_pct,per_b_a_pct
+1,-45,-47,0.0,0.0
+5,-59,-60,0.0,0.0
+10,-65,-67,1.0,1.0
+20,-72,-74,3.5,4.0
+30,-78,-82,10.0,12.0

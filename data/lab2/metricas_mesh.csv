@@ -1,0 +1,7 @@
+# TRA2SCRITO del informe (docs/informes/informe_labN.pdf). No es un log original; los logs no se guardaron. Tabla 6.5
+metrica,objetivo,medido,per,estado
+"Latencia 1 salto (A->B)","<200 ms","15.850 ms avg (min 15 / max 31)","0.0% (0/20)",PASS
+"Latencia 2 saltos (A->B->C)","<500 ms","36.5 ms avg (30-43 ms)","0.0%",PASS
+"Interrupcion Tractor Test","<120 s","8 s (seq 71-78)","8 pkts perdidos",EXCELENTE
+"Latencia post-healing (A->C)","<200 ms","16.078 ms avg (min 15 / max 43)","4.0% (8/200)",PASS
+"Contadores MAC router B","relay simetrico","42 TxUnicast / 42 TxAcked / 7 Retry","0.0% en relay",PASS

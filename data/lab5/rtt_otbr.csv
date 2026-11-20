@@ -1,0 +1,5 @@
+# TRA5SCRITO del informe (docs/informes/informe_labN.pdf). No es un log original; los logs no se guardaron. Tabla 7.1, 10 paquetes por trayectoria
+trayectoria,rtt_mediana_ms,rtt_promedio_ms,rtt_min_ms,rtt_max_ms,perdida_pct
+in-mesh (Node V -> Node A),81,79.5,65,100,0
+laptop -> OTBR -> Node A,190,221.0,59,469,0
+ping inverso ESP32-C6 -> ESP32-S3 (fig. 10),18,,,,0

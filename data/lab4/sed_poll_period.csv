@@ -1,0 +1,5 @@
+# TRA4SCRITO del informe (docs/informes/informe_labN.pdf). No es un log original; los logs no se guardaron. Tabla 6.2 (SED)
+poll_period_s,latencia_worst_case_s,corriente_promedio_ma,autonomia_2xAA_dias,decision
+1,1.2,1.50,47,descartado
+5,4.8 (medido),0.155,238,elegido ADR-004
+30,28.3,0.030,1389,descartado

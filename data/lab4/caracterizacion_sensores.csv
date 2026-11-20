@@ -1,0 +1,6 @@
+# TRA4SCRITO del informe (docs/informes/informe_labN.pdf). No es un log original; los logs no se guardaron. Tabla 6.1
+sensor,precision,resolucion,ruido_1min,offset_vs_ref,rise_time
+DS18B20,±0.5 °C,0.0625 °C,±0.06 °C,+0.12 °C,~12 s
+DHT22,±0.5 °C / ±2%RH,0.1 °C / 0.1%RH,±0.10 °C,+0.25 °C,~4 s (sat. 100%RH)
+DHT11,±2.0 °C / ±5%RH,1.0 °C / 1.0%RH,±1.00 °C,+1.20 °C,~6 s (sat. 95%RH)
+BMP280,±1.0 °C / ±1 hPa,0.01 °C / 0.18 Pa,±0.02 °C,+0.08 °C,~2 s

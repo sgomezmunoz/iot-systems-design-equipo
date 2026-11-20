@@ -1,0 +1,5 @@
+# TRA3SCRITO del informe (docs/informes/informe_labN.pdf). No es un log original; los logs no se guardaron. Tabla 7.1 (bytes en cable)
+stack,intercambio,bytes_totales,factor_vs_coap
+"HTTP/JSON (Lab 0)","TCP SYN+ACK + GET + 200 OK + FIN (6-9 paquetes)",~530,14.7
+"MQTT/JSON (Lab 0.5)","PUBLISH (socket TCP abierto, keepalives)",~40,1.1
+"CoAP/CBOR (Lab 3)","1 datagrama UDP request/response + 6 B CBOR",~36,1.0
