@@ -5,3 +5,4 @@ metrica,objetivo,medido,per,estado
 "Interrupcion Tractor Test","<120 s","8 s (seq 71-78)","8 pkts perdidos",EXCELENTE
 "Latencia post-healing (A->C)","<200 ms","16.078 ms avg (min 15 / max 43)","4.0% (8/200)",PASS
 "Contadores MAC router B","relay simetrico","42 TxUnicast / 42 TxAcked / 7 Retry","0.0% en relay",PASS
+"Latencia 2 saltos A->C (Tabla 3, ot ping 20 pkts)","<500 ms","30.150 ms avg (min 30 / max 31)","0.0% (0/20)",PASS
