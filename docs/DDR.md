@@ -296,5 +296,4 @@ de DSSS (~9–10 dB) explica el enlace limpio a corta distancia. En interiores, 
 
 | Herramienta | Qué hizo |
 |---|---|
-| Asistente de código (Claude) | Organizó este repositorio, transcribió las tablas de los informes a CSV y consolidó este DDR a partir de los informes del equipo. Los valores medidos provienen de los informes. |
-| | |
+| Claude (asistente de código) | Ayudó a organizar el repositorio y la documentación. Las mediciones y los informes son del equipo. |
