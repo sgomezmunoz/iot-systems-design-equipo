@@ -5,6 +5,10 @@
 1. Samuel Elias Gomez Munoz (GitHub: @sgomezmunoz)
 2. Juan Fernando Martinez Cabrera
 
+> **Este DDR es la versión consolidada de los informes de laboratorio.** Si un informe no
+> coincide con este documento, vale el DDR; las diferencias están en la
+> [fe de erratas](informes/README.md).
+
 Informes por laboratorio: [docs/informes/](informes/). Cada número de este documento cita el
 archivo de [`data/`](../data/) del que sale; las tablas de `data/` están transcritas de los
 informes y las capturas de consola extraídas de ellos (ver [data/README.md](../data/README.md)).
