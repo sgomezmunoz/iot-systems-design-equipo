@@ -1,0 +1,9 @@
+# Zephyr build output (regenerate with west build)
+build*/
+# Local credentials
+secrets.conf
+# Editor and Python leftovers
+*.bak
+*~
+__pycache__/
+.venv*/
