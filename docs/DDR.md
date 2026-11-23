@@ -246,9 +246,9 @@ de DSSS (~9–10 dB) explica el enlace limpio a corta distancia. En interiores, 
 | Lab 3: latencia CoAP | < 200 ms | no medida en el Lab 3 (Lab 5: 81 ms in-mesh) | `data/lab5/rtt_otbr.csv` | [ ] Pendiente |
 | Lab 3: latencia de poll (periodo de 5 s) | < 5 s | 4,8 s | `data/lab4/sed_poll_period.csv` | PASS |
 | Lab 4: tiempo en detectar un sensor perdido | ≤ 60 s | 60 s (5.03) | informe Lab 4, §2.2 | PASS |
-| Lab 4: fallas de lectura con la radio ocupada | < 5 % | no medida | — | [ ] Pendiente |
+| Lab 4: fallas de lectura con la radio ocupada | < 5 % | no medido: no se hizo la prueba de lecturas del DHT22 con la radio ocupada; solo se analizó la causa (sección 5, Lab 4, punto 4) | informe Lab 4, pregunta 4 | No medido |
 | Lab 5: latencia agregada por el OTBR | < 100 ms | 109 ms (190 − 81) | `data/lab5/rtt_otbr.csv` | **FAIL** |
-| Lab 5: RTT NAT64 | < 200 ms | sin dato: el hotspot no enruta NAT64/IPv6 de salida | informe Lab 5, Task E | [ ] Pendiente |
+| Lab 5: RTT NAT64 | < 200 ms | no medido: el hotspot no enruta NAT64/IPv6 de salida | informe Lab 5, Task E | No medido |
 
 ---
 
